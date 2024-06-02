@@ -1,0 +1,4 @@
+pip install PySide6 --target=C:\Python38\Lib\site-packages
+pip install Pillow --target=C:\Python311\Lib\site-packages
+
+
